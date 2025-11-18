@@ -48,25 +48,24 @@ Welcome to my GitHub profile! I build scalable web apps, modern UI, and full‑s
 
 ## 🚀 Featured Projects
 
-### 🔹 **Project 1 — Title Here**
+### 🔹 **Project 1 — 🔹 WorkOrbit**
 
-Short description of the project.
+A modern job management platform featuring user authentication, job posting, and dynamic dashboards.
 
-### 🔹 **Project 2 — Title Here**
+### 🔹 **Project 2 — 🔹 Dragon News**
 
-Short description of the project.
+A responsive news portal built with React, Firebase auth, and real-time content rendering.
 
-### 🔹 **Project 3 — Title Here**
+### 🔹 **Project 3 — 🔹 Learnova**
 
-Short description of the project.
+An interactive learning platform built with MERN, offering courses, quizzes, and user progress tracking.
 
-> *(You can tell me your project names — I’ll fill these with better descriptions.)*
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: your email here
+* 📧 Email: jarifanuwar7@gmail.com
 * 🌍 Portfolio: your link here
 * 💼 LinkedIn: your link here
 

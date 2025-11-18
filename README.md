@@ -66,9 +66,7 @@ An interactive learning platform built with MERN, offering courses, quizzes, and
 ## 🌐 Connect With Me
 
 * 📧 Email: jarifanuwar7@gmail.com
-* 🌍 Portfolio: your link here
-* 💼 LinkedIn: your link here
-
+*  Facebook: https://www.facebook.com/zaref.zayn
 ---
 
 ⭐ **Thanks for visiting!** If you like my work, consider giving a star to some repos!

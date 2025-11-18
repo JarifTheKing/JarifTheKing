@@ -9,6 +9,12 @@
 
 I'm **Jarif Mahfuz**, a passionate **MERN Stack Developer** who loves building modern UI, scalable applications, and solving real-world web problems.
 
+# 📍 Location & Contact
+- 📌 **Location:** Mymensingh, Bangladesh  
+- 📧 **Email:** jarifanuwar7@gmail.com
+
+---
+
 ### 💡 What I Do
 
 - 🚀 Build full-stack apps using **React, Node.js, Express, MongoDB**
@@ -77,19 +83,40 @@ I'm **Jarif Mahfuz**, a passionate **MERN Stack Developer** who loves building m
 
 ---
 
-
 # 🚀 Featured Projects
 
-### 🔹 **WorkOrbit**
+## ⭐ WorkOrbit  
 A modern job management platform featuring authentication, job posting, and dashboards.
-
-### 🔹 **Dragon News**
-A responsive news portal with Firebase auth and real-time rendering.
-
-### 🔹 **Learnova**
-An interactive MERN-powered learning platform with courses & quizzes.
+**Live:** https://workorbit-a6882.web.app/  
+**Tech:** React, Node, Express, Mongo, Firebase  ### 🔹 
 
 ---
+
+### ⭐ **Dragon News**
+A modern news portal with category filtering.  
+**Tech:** React, Firebase  
+
+**Features:**
+- Category-based news  
+- Realtime updates  
+- Firebase auth  
+- Responsive UI  
+
+---
+
+### ⭐ **Learnova**
+MERN-based learning web app.  
+**Tech:** React, Node.js, MongoDB  
+
+**Features:**
+- Course listing  
+- Quiz system  
+- User dashboard  
+- Role permissions  
+
+---
+
+
 
 # 📊 GitHub Analytics
 
@@ -105,7 +132,14 @@ An interactive MERN-powered learning platform with courses & quizzes.
 
 ---
 
+# 🔥 Currently Doing 
+- 🌱 I’m learning **Next.js & Advanced MERN Architecture**  
+- 💼 Currently building a **job management web application (WorkOrbit)**  
+- 🧠 Exploring **backend optimization & caching techniques**  
+- ✨ Creating UI components with **Tailwind + DaisyUI**  
+- 🎯 Preparing for **front-end & MERN developer roles**
 
+---
 
 # 🎨 Aesthetic Divider
 <p align="center">
@@ -126,4 +160,25 @@ An interactive MERN-powered learning platform with courses & quizzes.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jariftheking&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
+
+---
+
+# 📌 Pinned Repositories
+
+### ⭐ WorkOrbit
+Modern job management MERN application  
+**Live:** https://workorbit-a6882.web.app/  
+**Tech:** React, Node, Express, Mongo, Firebase  
+
+**Features:**
+- Job posting + update  
+- Dashboard  
+- User auth  
+- Role-based routes  
+
+**Run locally:**  
+```bash
+npm install
+npm run dev
+```
 

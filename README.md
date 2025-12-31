@@ -11,7 +11,7 @@ I'm **Jarif Mahfuz**, a passionate **MERN Stack Developer** who loves building m
 
 # 📍 Location & Contact
 - 📌 **Location:** Mymensingh, Bangladesh  
-- 📧 **Email:** jarifanuwar7@gmail.com
+- 📧 **Email:** mahfuzbillah24@gmail.com
 
 ---
 
